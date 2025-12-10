@@ -17,11 +17,11 @@ const translations = {
     headlinePrefix: "Get ",
     headlineHighlight: "15% Back",
     headlineSuffix: " in Clinikk Cash.",
-    subhead: "Join the Clinikk Cash program. We'll add 15% of your current bill to your wallet instantly.",
+    subhead: "Join the Clinikk Cash program. We'll add ₹50 to your wallet instantly.",
     feature1Title: "Get 15% Clinikk Cash on spends",
     feature1Desc: "Receive value on every rupee spent at Clinikk.",
-    feature2Title: "Use Clinikk Cash for future visits",
-    feature2Desc: "Pay up to 15% of any bill using Clinikk Cash.",
+    feature2Title: "Use on Meds & Tests",
+    feature2Desc: "Redeem Clinikk Cash on medicines and lab tests.",
     feature3Title: "Pay for family members",
     feature3Desc: "Use balance for family linked to your registered number.",
     exclusiveOffer: "Exclusive Offer",
@@ -36,14 +36,14 @@ const translations = {
     termsLink: "Terms of Service",
     termsSuffix: ". Clinikk Cash expires after 12 months of inactivity.",
     youGet: "You Get",
-    onBillOf: "on bill of",
+    signupBonusLabel: "Sign-up Bonus",
     activateBtn: "Activate & Get",
     activatedBtn: "Activated",
     termsHeader: "Terms of Service",
     term1Title: "Clinikk Cash Benefits",
     term1Desc: "Members are eligible for 15% cashback on all valid transactions made at Clinikk centers.",
-    term2Title: "Redemption Limit",
-    term2Desc: "Clinikk Cash can be applied to cover up to 15% of your total bill amount per transaction.",
+    term2Title: "Redemption Restricted to Meds & Tests",
+    term2Desc: "Clinikk Cash can only be redeemed against payments for Medicines and Lab Tests.",
     term3Title: "Validity",
     term3Desc: "Accrued Clinikk Cash is valid for 12 months from the date of the last transaction.",
     term4Title: "Non-Transferable",
@@ -55,11 +55,11 @@ const translations = {
     headlinePrefix: "Clinikk Cash ನಲ್ಲಿ ",
     headlineHighlight: "15% ಹಿಂಪಡೆಯಿರಿ",
     headlineSuffix: ".",
-    subhead: "Clinikk Cash ಪ್ರೋಗ್ರಾಂಗೆ ಸೇರಿ. ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಬಿಲ್‌ನ 15% ಅನ್ನು ನಾವು ತಕ್ಷಣ ನಿಮ್ಮ ವಾಲೆಟ್‌ಗೆ ಸೇರಿಸುತ್ತೇವೆ.",
+    subhead: "Clinikk Cash ಪ್ರೋಗ್ರಾಂಗೆ ಸೇರಿ. ನಾವು ತಕ್ಷಣ ನಿಮ್ಮ ವಾಲೆಟ್‌ಗೆ ₹50 ಸೇರಿಸುತ್ತೇವೆ.",
     feature1Title: "ಖರ್ಚಿನ ಮೇಲೆ 15% Clinikk Cash ಪಡೆಯಿರಿ",
     feature1Desc: "Clinikk ನಲ್ಲಿ ಖರ್ಚು ಮಾಡುವ ಪ್ರತಿ ರೂಪಾಯಿಗೆ ಮೌಲ್ಯವನ್ನು ಪಡೆಯಿರಿ.",
-    feature2Title: "ಮುಂದಿನ ಭೇಟಿಗಳಿಗೆ Clinikk Cash ಬಳಸಿ",
-    feature2Desc: "Clinikk Cash ಬಳಸಿ ಯಾವುದೇ ಬಿಲ್‌ನ 15% ರಷ್ಟು ಪಾವತಿಸಿ.",
+    feature2Title: "ಮೆಡ್ಸ್ ಮತ್ತು ಟೆಸ್ಟ್‌ಗಳಿಗೆ ಬಳಸಿ",
+    feature2Desc: "ಔಷಧಿಗಳು ಮತ್ತು ಲ್ಯಾಬ್ ಟೆಸ್ಟ್‌ಗಳಿಗೆ Clinikk Cash ಬಳಸಿ.",
     feature3Title: "ಕುಟುಂಬ ಸದಸ್ಯರಿಗಾಗಿ ಪಾವತಿಸಿ",
     feature3Desc: "ನಿಮ್ಮ ನೋಂದಾಯಿತ ಸಂಖ್ಯೆಗೆ ಲಿಂಕ್ ಆಗಿರುವ ಕುಟುಂಬದ ಸದಸ್ಯರಿಗೆ ಬಳಸಿ.",
     exclusiveOffer: "ವಿಶೇಷ ಆಫರ್",
@@ -74,14 +74,14 @@ const translations = {
     termsLink: "ಸೇವಾ ನಿಯಮಗಳಿಗೆ",
     termsSuffix: " ಒಪ್ಪುತ್ತೀರಿ. 12 ತಿಂಗಳ ನಿಷ್ಕ್ರಿಯತೆಯ ನಂತರ Clinikk Cash ಮುಕ್ತಾಯಗೊಳ್ಳುತ್ತದೆ.",
     youGet: "ನಿಮಗೆ ಸಿಗುವುದು",
-    onBillOf: "ಬಿಲ್ ಮೊತ್ತ",
+    signupBonusLabel: "ಸೈನ್-ಅಪ್ ಬೋನಸ್",
     activateBtn: "ಸಕ್ರಿಯಗೊಳಿಸಿ & ಪಡೆಯಿರಿ",
     activatedBtn: "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
     termsHeader: "ಸೇವಾ ನಿಯಮಗಳು",
     term1Title: "Clinikk Cash ಪ್ರಯೋಜನಗಳು",
     term1Desc: "ಸದಸ್ಯರು Clinikk ಕೇಂದ್ರಗಳಲ್ಲಿ ಮಾಡುವ ಎಲ್ಲಾ ಮಾನ್ಯ ವಹಿವಾಟುಗಳ ಮೇಲೆ 15% ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್‌ಗೆ ಅರ್ಹರಾಗಿರುತ್ತಾರೆ.",
-    term2Title: "ರಿಡೆಂಪ್ಶನ್ ಮಿತಿ",
-    term2Desc: "ಪ್ರತಿ ವಹಿವಾಟಿಗೆ ನಿಮ್ಮ ಒಟ್ಟು ಬಿಲ್ ಮೊತ್ತದ 15% ರಷ್ಟನ್ನು ಭರಿಸಲು Clinikk Cash ಬಳಸಬಹುದು.",
+    term2Title: "ಮೆಡ್ಸ್ ಮತ್ತು ಟೆಸ್ಟ್‌ಗಳಿಗೆ ಮಾತ್ರ ಸೀಮಿತ",
+    term2Desc: "Clinikk Cash ಅನ್ನು ಔಷಧಿಗಳು ಮತ್ತು ಲ್ಯಾಬ್ ಟೆಸ್ಟ್‌ಗಳ ಪಾವತಿಗೆ ಮಾತ್ರ ಬಳಸಬಹುದು.",
     term3Title: "ಮಾನ್ಯತೆ",
     term3Desc: "ಗಳಿಸಿದ Clinikk Cash ಕೊನೆಯ ವಹಿವಾಟಿನ ದಿನಾಂಕದಿಂದ 12 ತಿಂಗಳವರೆಗೆ ಮಾನ್ಯವಾಗಿರುತ್ತದೆ.",
     term4Title: "ವರ್ಗಾವಣೆ ಸಾಧ್ಯವಿಲ್ಲ",
@@ -101,8 +101,8 @@ const App: React.FC = () => {
   
   // Mock Data
   const billAmount = 1800;
-  const cashbackPercentage = 15;
-  const cashbackAmount = (billAmount * cashbackPercentage) / 100;
+  // Fixed sign-up bonus irrespective of bill amount
+  const cashbackAmount = 50; 
   const initialBalance = 150;
 
   useEffect(() => {
@@ -292,7 +292,7 @@ const App: React.FC = () => {
             <div className="flex flex-col">
               <span className="text-2xl font-extrabold text-emerald-600 leading-none">₹{cashbackAmount}</span>
               <span className="text-gray-400 text-[10px] font-medium mt-1">
-                 {t.onBillOf} ₹{billAmount}
+                 {t.signupBonusLabel}
               </span>
             </div>
           </div>
